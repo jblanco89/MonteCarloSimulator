@@ -55,5 +55,8 @@ End If
 
 
 End Sub
+Private Sub Calculation_Click()
+Call normalDist
+End Sub
 
 
